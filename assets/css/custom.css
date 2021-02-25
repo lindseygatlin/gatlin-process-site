@@ -38,3 +38,6 @@ border: 1.5px solid #555;
  Write your css customizations below
  *********************************************/
 
+#headerChallenge {
+  font-family: Helvetica, sans-serif;
+}
