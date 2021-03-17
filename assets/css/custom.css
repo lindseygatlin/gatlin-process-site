@@ -42,3 +42,11 @@ border: 1.5px solid #555;
 #headerChallenge {
   font-family: Helvetica, sans-serif;
 }
+
+.post .content {
+  text-align: left;
+}
+
+#tile {
+  border: 1.5px solid #555;
+}
