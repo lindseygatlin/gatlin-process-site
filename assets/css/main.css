@@ -1735,7 +1735,7 @@
 	}
 
 	input, select, textarea {
-		color: #555;
+		color: black;
 	}
 
 	a {
@@ -1743,11 +1743,11 @@
 	}
 
 	strong, b {
-		color: #555;
+		color: black;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #555;
+		color: black;
 	}
 
 	blockquote {
@@ -1926,7 +1926,7 @@
 		.button.alt {
 			background-color: transparent;
 			box-shadow: inset 0 0 0 2px rgba(144, 144, 144, 0.25);
-			color: #555 !important;
+			color: black !important;
 		}
 
 			input[type="submit"].alt:hover,
@@ -2147,7 +2147,7 @@
 	}
 
 	label {
-		color: #555;
+		color: black;
 	}
 
 	input[type="text"],
@@ -2598,7 +2598,7 @@
 		}
 
 	table th {
-		color: #555;
+		color: black;
 	}
 
 	table thead {
@@ -3063,7 +3063,7 @@
 	}
 
 	#header {
-		background: black;
+		background:#FE5901;
 		color: rgba(255, 255, 255, 0.75);
 		cursor: default;
 		height: 4.25em;
@@ -3194,7 +3194,7 @@
 		-ms-transition: -ms-transform 0.5s ease, box-shadow 0.5s ease, visibility 0.5s;
 		transition: transform 0.5s ease, box-shadow 0.5s ease, visibility 0.5s;
 		-webkit-overflow-scrolling: touch;
-		background: black;
+		background: #FE5901;
 		box-shadow: none;
 		color: #fff;
 		height: 100%;
@@ -4524,7 +4524,7 @@
 
 	#footer {
 		padding: 4em 0 2em 0;
-		background: black;
+		background: #FE5901;
 		text-align: center;
 	}
 
